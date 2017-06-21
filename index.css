@@ -1,0 +1,13 @@
+ .jumbotron{
+  margin: auto;
+  width: 90%;
+  border: 1px solid red;
+ }
+
+ .panel {
+     margin: left;
+     width: 50%;
+     text-align: center;
+     border: 2px solid red;
+ }
+
